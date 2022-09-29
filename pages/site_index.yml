@@ -1,0 +1,15 @@
+- Home: '@github(dhis2designlab/project-toolkit, pages/home.md, main)' # landing page
+- Project Toolkit: # top-level "tab"
+  - Define problem and solution concept:
+      Develop understanding: '@github(dhis2designlab/project-toolkit, <path-to-file>.md, main)'
+      Problem formulation: '@github(dhis2designlab/project-toolkit, <path-to-file>.md, main)'
+      Conceptual ideation: '@github(dhis2designlab/project-toolkit, <path-to-file>.md, main)'
+      Conceptual prototyping: '@github(dhis2designlab/project-toolkit, <path-to-file>.md, main)'
+  - Define solution details:
+      Develop understanding: '@github(dhis2designlab/project-toolkit, <path-to-file>.md, main)'
+      Ideation: '@github(dhis2designlab/project-toolkit, <path-to-file>.md, main)'
+      Prototyping: '@github(dhis2designlab/project-toolkit, <path-to-file>.md, main)'
+      Evaluation: '@github(dhis2designlab/project-toolkit, <path-to-file>.md, main)'
+  - Implement solution:
+      Pilot: '@github(dhis2designlab/project-toolkit, <path-to-file>.md, main)'
+      User training: '@github(dhis2designlab/project-toolkit, <path-to-file>.md, main)'
