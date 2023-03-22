@@ -1,0 +1,61 @@
+# Plan to Develop
+
+**Output:** Specified plan/project canvas/(inception report?)
+The output of this phase should be a contract consisting of plans for the following (development of the intervention), what the intervention should be, how it should be developed and implemented, how this should be tested and what the objectives and measurable outcomes for long term evaluation and sustainability should be
+-   Focal points
+-   Define technical requirement for first increment of intervention
+
+**Aim**
+To develop a plan for the activities carried out when developing the intervention (increment) based on the intervention concept
+
+**Key elements**
+
+First time:
+-   Define timelines
+-   Define responsibilities (RACI Matrix)
+-   Define clear objectives and measurable (desired) outcomes
+-   (Re)define stakeholders
+-   Establish focal points
+-   Define requirements
+-   How to evaluate the outcomes
+
+In consecutive agile iterations:
+-   Define requirements (or scope?) for next increment (may require additional mapping, problem formulation, ideation, and conceptual prototyping)
+-   Potentially redefine some of the configurations above
+
+—
+
+### Agreement on MVP 
+Present of findings/prototypes from previous phase to (key) stakeholders. Should end in agreement on which MVP/low-hanging fruit to move forward with.
+
+## First time
+Following the previous phase of defining an intervention concept, this phase is dedicated to develop a tangible plan. Through the work with such a plan, one should aim to define timelines, roles and responsibilities, vital to ensure steady progress. While the previous phase consisted of understanding the existing sociotechnical system, deep diving into the problem at hand, developing understanding and prototypes, this phase should be used to reach agreements with stakeholders on what is to be delivered and how.
+
+
+### Define timelines
+Contractual obligations with donor organizations might set a predetermined timeline but the specific project is also dependent on deadlines and a timeframe under which to operate and reach completion. Define timelines based on the assumed workload of the agreed upon MPV. Keep in mind implementation and testing with end users, as well as evaluation and whether the latter will be part of the project scope or not. 
+
+
+### Define responsibilities
+For the continuation of the work, defining responsibilities for the team is important. A good tool to use for this is for instance a [RACI Matrix](https://www.cio.com/article/287088/project-management-how-to-design-a-successful-raci-project-plan.html#:~:text=What%20is%20a%20RACI%20matrix,to%20be%20Consulted%20or%20Informed.) where the roles and responsibilities for the project in question are identified.
+
+*Establish focal points*
+Establish (HISP) focal point, program managers, MoH representatives etc. These are points of contact internally within the organization, responsible for overseeing the projects and to some degree managing them. The focal points on both sides should be tightly connected to/involved in a project, and their role should reflect their position as a point of focus for information and communication. 
+
+### Define requirements
+If the intervention is of a technical nature, documenting the technical requirements for this is needed. 
+
+### Define clear objectives and measurable (desired) outcomes
+Whether or not the intervention is technical, it will operate within the sociotechnical system/environment explored in the previous phase. There is a need then to evaluate and measure to what extent the intervention answers to organizational change and whether it's beneficial to the users. To this end, definition of clear objectives and measurable (desired) outcomes should be described, focusing on holistic, sociotechnical evaluation both long- and short term, and sustainability. 
+
+### How to evaluate the outcomes
+In all aspects of the project lifecycle, a plan for and focus on long-term evaluation and sustainability should be maintained. While the technical requirements covers the technical aspects of the intervention, it will be implemented within an organization, operated by people which means sociotechnical considerations must be taken into account.
+
+So how do we measure the organizational change of the implemented intervention? How do we decide if changes are needed (e.g. if there is a need for a review and new iteration of the intervention?). Contrary to the evaluation and testing of the technical requirements, this requires a qualitative evaluation where organizational and social aspects are the ones the intervention is being tested against. This could be done through several means, for instance:
+- Interview
+- Observation
+
+
+## In consecutive agile iterations
+Following an iteration where an intervention has been implemented, tested and found unfit to meet the requirements specification, needs of the stakeholders and end users and/or objectives and measurable outcomes, a new iteration is needed. This does not mean one should start the whole process anew but rather make adjustments based on the learnings and challenges discovered during the implementation and/or evaluation. Move back to define intervention concept phase and review the problem once more based on new discoveries, guiding the ideation, prototyping (resulting in a new MVP), and associated objectives and measurable outcomes. Adjust timelines, responsibilities, stakeholders, focal points, technical requirements etc. in the following phases as needed.
+

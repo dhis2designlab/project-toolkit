@@ -1,0 +1,32 @@
+# Implement
+
+**Output:** Learnings from organizational change
+    
+**Aim**
+To implement the intervention (increment) into the organization
+
+**Key elements**
+Document learnings
+
+### Implementation
+Many assumptions about the intervention will be made during the prior phase of development. The implementation phase is where these assumptions are tested as the intervention is exposed to a realistic context. Examining whether the intervention corresponds with the requirements specification is a critical aspect of this phase, but not the only one. Documenting insights gained from the intervention being implemented with stakeholders in a realistic context will in the next phase serve as a foundation to evaluate how the intervention matched up to expectations and assumptions made.
+
+Example contexts for insight documentation: 
+>User training for a case-based reporting system in DHIS2
+> -   What problems did users have during training?
+> -   What’s ‘worse’ or missing from the ‘old’ way of doing things? (e.g. training of new employees as part of the old paper system)
+> -   Does the role of the users have a high turnover rate? (e.g. constantly new users needing training)
+ 
+>Statistical information about use of an intervention (e.g. data dashboards)
+> -   At what times are dashboards accessed? (e.g. around/before meeting times or such)
+> -   Are they opened frequently by some users or only once by several?
+> -   What actions are performed on the dashboards - what features are not used?
+   
+   
+**User testing**
+Make sure to involve the users during adoption of the intervention, will see the benefits, feeling of ownership, possibility to identify problems/issues during implementation which can be tended to either instantly or, if more serious challenges/problems arise, a new iteration might be needed. Need to move back to the define intervention concept phase, and create new/updated plans for the intervention. Move forward through the following phases again, timeframe would most likely be shorter for this iteration as smaller changes are needed and the stakeholders are already defined. If new problems/problem areas are identified, spend time understanding what is needed to solve this.
+
+How can this be done?  
+1. Interview
+2. Observation 
+
