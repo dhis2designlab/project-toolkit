@@ -2,6 +2,7 @@
 
 
 **Output:** Solution concept *(inception report?)*
+
 -   Problem statement
 -   Objectives and measurable outcomes for evaluation
 -   Vision statement?
@@ -10,10 +11,12 @@
 -   Scope-mandate-problem alignment
    
 **Aim**
+
 To design and define an intervention and define clear objectives and measurable desired outcomes regarding organizational improvement. We do so by investing time in understanding the problem situation and experimenting with different ways of defining the problem and a variety of associated intervention concepts. The choice of concept to go further with is based on which seemingly would have the most positive impact with the least immediate and long-term costs. The decided concept serves as the basis for further planning and development.
   
 
 **Key elements**
+
 -   Defining a well-informed intervention concept requires a thorough understanding of the current sociotechnical system
 -   Gained by involving stakeholders and mapping the current sociotechnical system(s)
 -   Ideas for potential interventions should be explored conceptually by discussing them in light of the problems (identified through mapping) which they are seeking to address (divergent)
@@ -28,9 +31,13 @@ To design and define an intervention and define clear objectives and measurable 
 ---
 
 ### Problem formulation
+
 Problem formulation consists of two elements:
+
 **1.  Problem exploration:**
+
 Mapping
+
 Mapping entails gaining a comprehensive understanding of the problem situation - workflow, processes, interactions, people, tools (both digital and analogue), domain. Important to understand current pain points, but also to identify what works well.
 
 *Primary goal:* Not to develop technical requirements, but to understand the organization(s) and how it/they work in order to identify the right problem to solve and ideate potential solutions.
@@ -42,14 +49,18 @@ Mapping entails gaining a comprehensive understanding of the problem situation -
 *Considerations:* During the mapping process, it is important to challenge the initial problem and assumptions about the problem. The goal is to identify whether the design team is targeting/addressing the right problem through understanding the context where the problem exists.
 
 **2.  Problem solution:** 
+
 *Ideation*
+
 Based on alignment between the overall goal of the project (from the client side) and the insights gathered through the mapping process.
 
 *Prototyping*
+
 The main goal of prototyping in this phase is to test ideas and assumptions based on the design team's perception of the problem. An important principle for prototyping is to test many alternatives/ideas for a solution concept, and to fail fast as changes are easier and less expensive to address early in the process.
 
 
 ### Ideation
+
 Ideation involves systematic efforts to generate ideas for the design of a solution. In many projects, ideation is an implicit activity where designers, developers, and users organizations quickly jump to a solution without sufficient exploration of an assessment of different alternatives. This is not ideal, as the idea that first comes to mind is not always the best. Good solutions often come out of a systematic and disciplined effort of exploring different ideas and hence, in approaches such as design thinking, ideation is made an explicit stage of the process.
 
 In early phases of a project, ideation will revolve around generating and assessing ideas for the overall solution on a conceptual level. As the design process progress and the project has committed to an overall concept idea, ideation will involve generating ideas for various more specific dimensions of the solution, such as the specific functionalities of an app, or the layout of a user interface.
@@ -63,21 +74,25 @@ A sufficiently detailed understanding of the existing problem situation and the 
 
 
 ### Prototyping
+
 Prototyping involves developing artifact(s) that help in exploring one or several dimensions of a potential solution and is used to communicate, discuss, and evaluate ideas and concrete solutions within the design team, and with other stakeholders. The form and content of a prototype is thus developed based on what is to be communicated, evaluated and discussed and helps in concretizing ideas.
 
 *Low and high-fidelity prototypes*
+
 Prototypes may range from low-fidelity to high-fidelity depending on how close the prototype is to a working solution. To make prototyping efficient, one should seek to use the least time consuming and resource-intensive form of prototyping which effectively can be used to explore the relevant dimension. For instance, if exploring the appropriate size of a physical device to be worn by a health worker out in the field, it is more efficient to use pieces of wood with different sizes and weights and evaluate these that to build a fully functioning digital device and later find out that it is too large or heavy. Similarly, if exploring the rough concept around a web-based app, it is often preferable to develop a set of conceptual sketches rather than implementing a fully functioning app to find out it represents a bad solution to the problem.
 
 Also, some dimensions of a solution may be better evaluated in a naturalistic setting (in situations close to or similar to a real situation) or in a controlled environment (e.g., a lab, a workshop, in a meeting)
 
 *Evolutionary prototyping*
+
 Prototypes of various kinds should be used throughout the design process beginning with prototypes for discovering the right solution to build or the right intervention (conceptual) and gradually moving to prototypes for exploring how to build the solution right (e.g., exploring details of functionalities, workflows, user interfaces). Prototyping is thus an evolutionary process where the prototype evolves with the project from initial ideas to a working solution.
 
 ### Identify low-hanging fruit (MVP)
+
 Following the ideation process one should now possess several suggestions on how the identified problem can be met. Next steps towards the solution concept is to identify the low-hanging fruit, meaning choosing the concept to move further with based on which seemingly would have the most positive impact with the least immediate and long-term costs and use of resources, what could also be referred to as minimal viable product (MVP).
 
-  
-  
+
 
 ### Define clear objectives and measurable desired outcomes
+
 Having made a decision on what concept or intervention to move forward with, one needs to define clear objectives for the intervention and what desired outcomes to measure this on once implemented.  
