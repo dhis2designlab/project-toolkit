@@ -1,15 +1,30 @@
 - Home: '@github(dhis2designlab/project-toolkit, pages/home.md, main)' # landing page
 - Project Toolkit: # top-level "tab"
-  - Define problem and solution concept:
-      Develop understanding: '@github(dhis2designlab/project-toolkit, <path-to-file>.md, main)'
-      Problem formulation: '@github(dhis2designlab/project-toolkit, <path-to-file>.md, main)'
-      Conceptual ideation: '@github(dhis2designlab/project-toolkit, <path-to-file>.md, main)'
-      Conceptual prototyping: '@github(dhis2designlab/project-toolkit, <path-to-file>.md, main)'
-  - Define solution details:
-      Develop understanding: '@github(dhis2designlab/project-toolkit, <path-to-file>.md, main)'
-      Ideation: '@github(dhis2designlab/project-toolkit, <path-to-file>.md, main)'
-      Prototyping: '@github(dhis2designlab/project-toolkit, <path-to-file>.md, main)'
-      Evaluation: '@github(dhis2designlab/project-toolkit, <path-to-file>.md, main)'
-  - Implement solution:
-      Pilot: '@github(dhis2designlab/project-toolkit, <path-to-file>.md, main)'
-      User training: '@github(dhis2designlab/project-toolkit, <path-to-file>.md, main)'
+  - Plan to define:
+      Project configuration: '@github(dhis2designlab/project-toolkit, <plan-to-define>.md, plan-to-define)'
+      Defining the projects objectives and values: '@github(dhis2designlab/project-toolkit, <plan-to-define>.md, plan-to-define)'
+      Problem formulation: '@github(dhis2designlab/project-toolkit, <plan-to-define>.md, plan-to-define)'
+  - Define intervention concept:
+      Problem exploration and solution: '@github(dhis2designlab/project-toolkit, <define-intervention-concept>.md, define-intervention-concept)'
+      Ideation: '@github(dhis2designlab/project-toolkit, <define-intervention-concept>.md, define-intervention-concept)'
+      Prototyping: '@github(dhis2designlab/project-toolkit, <define-intervention-concept>.md, define-intervention-concept)'
+      Identify low-hanging fruit (MVP): '@github(dhis2designlab/project-toolkit, <define-intervention-concept>.md, define-intervention-concept)'
+      Define clear objectives and measurable (desired) outcomes: '@github(dhis2designlab/project-toolkit, <define-intervention-concept>.md, define-intervention-concept)'
+  - Plan to develop:
+      Agreement on MVP: '@github(dhis2designlab/project-toolkit, <plan-to-develop>.md, plan-to-develop)'
+      First time: '@github(dhis2designlab/project-toolkit, <plan-to-develop>.md, plan-to-develop)'
+        Define timelines: '@github(dhis2designlab/project-toolkit, <plan-to-develop>.md, plan-to-develop)'
+        Define responsibilities: '@github(dhis2designlab/project-toolkit, <plan-to-develop>.md, plan-to-develop)'
+        Define (technical) requirements: '@github(dhis2designlab/project-toolkit, <plan-to-develop>.md, plan-to-develop)'
+        Define clear objectives and measurable (desired) outcomes: '@github(dhis2designlab/project-toolkit, <plan-to-develop>.md, plan-to-develop)'
+      In consecutive agile iterations: '@github(dhis2designlab/project-toolkit, <plan-to-develop>.md, plan-to-develop)'
+   - Develop the intervention:
+      Prototyping and testing with stakeholders: '@github(dhis2designlab/project-toolkit, <develop-the-intervention>.md, develop-the-intervention)'
+   - Implement:
+      Implementation: '@github(dhis2designlab/project-toolkit, <implement>.md, implement)'
+      User testing: '@github(dhis2designlab/project-toolkit, <implement>.md, implement)'
+   - Evaluate:
+      Evaluation: '@github(dhis2designlab/project-toolkit, <evaluate>.md, evaluate)'
+      Interview and observation: '@github(dhis2designlab/project-toolkit, <evaluate>.md, evaluate)'
+      How to interpret and analyse findings: '@github(dhis2designlab/project-toolkit, <evaluate>.md, evaluate)'
+      What now?: '@github(dhis2designlab/project-toolkit, <evaluate>.md, evaluate)'
